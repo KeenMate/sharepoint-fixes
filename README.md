@@ -1,4 +1,4 @@
-# sharepoint-fixes
+# SharePoint utility scripts, fixes and tweeks
 
 This repository contains small utility script, fixes and tweeks that we are collecting while working with SharePoint 2016. 
 
