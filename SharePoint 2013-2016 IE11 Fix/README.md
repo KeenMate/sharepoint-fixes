@@ -18,6 +18,6 @@ The *ie55up.debug-fix.js* file contains replacements of the two touched methods 
 The *ie55up.fix.js* file contains minified replacements of the two touched methods in ie55up.js
 
 ## How to use the files
-Places these two files into your master page just behind ie55.js reference and that's it. 
+Places these two files into your master page just behind ie55.js reference and that's it. You don't have to place both of them in the same master page just pick the right one for your environment.
 
 Let us know if there are some issues with it? We have not find any though.
